@@ -1,0 +1,2 @@
+module FaceComparesHelper
+end

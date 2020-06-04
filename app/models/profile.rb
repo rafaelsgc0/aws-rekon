@@ -1,0 +1,17 @@
+# == Schema Information
+#
+# Table name: profiles
+#
+#  id         :bigint           not null, primary key
+#  email      :string
+#  first_name :string
+#  last_name  :string
+#  picture    :string
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+class Profile < ApplicationRecord
+  has_many :face_compares, inverse_of: :profile
+
+  mount_uploader :picture, PictureUploader
+end

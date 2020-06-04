@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Profile:</strong>
+  <%= @face_compare.profile %>
+</p>
+
+<p>
+  <strong>Photo compare:</strong>
+  <%= @face_compare.photo_compare %>
+</p>
+
+<p>
+  <strong>Result:</strong>
+  <%= @face_compare.result %>
+</p>
+
+<%= link_to 'Edit', edit_face_compare_path(@face_compare) %> |
+<%= link_to 'Back', face_compares_path %>
