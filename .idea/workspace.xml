@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e8aaef-10bb-489b-b22e-771fa958c372" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/compare_faces.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/rekon_service.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/uploaders/application_uploader.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/uploaders/versions.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/aws.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/carrierwave.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +24,7 @@
   <component name="ProjectId" id="1cDW4j3fiOb8MRMpSSJUWPXnzdt" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/services" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -167,6 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590063454890</updated>
       <workItem from="1590063456038" duration="43027000" />
+      <workItem from="1591279897937" duration="38000" />
     </task>
     <servers />
   </component>
@@ -178,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

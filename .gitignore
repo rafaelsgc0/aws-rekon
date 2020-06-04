@@ -17,3 +17,14 @@
 /yarn-error.log
 
 .byebug_history
+
+
+
+config/database.yml
+config/secrets.yml
+config/shoryuken.yml
+config/cloudinary.yml
+public/assets
+public/uploads/
+node_modules/
+public/packs/
